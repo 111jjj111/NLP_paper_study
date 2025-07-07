@@ -40,4 +40,4 @@
 
 ## 👥 Contributors
 
-- 청해 김 외 스터디 참여자들
+- [hyunohJang](https://github.com/hyunohJang)
